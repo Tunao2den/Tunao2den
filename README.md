@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Tuna. Currently studying engineering and try to develop my own projects.
+Hello! I'm Tuna. Currently studying engineering and develop my own projects.
 
 
 ## 🌐 Socials:
